@@ -15,13 +15,11 @@ This is the directory structure you should have after unzipping:
 
 ```
 ./UCI HAR Dataset  
-./UCI HAR Dataset/.DS_Store  
 ./UCI HAR Dataset/activity_labels.txt  
 ./UCI HAR Dataset/features.txt  
 ./UCI HAR Dataset/features_info.txt  
 ./UCI HAR Dataset/README.txt
 ./UCI HAR Dataset/test
-./UCI HAR Dataset/test/.DS_Store
 ./UCI HAR Dataset/test/Inertial Signals
 ./UCI HAR Dataset/test/Inertial Signals/body_acc_x_test.txt
 ./UCI HAR Dataset/test/Inertial Signals/body_acc_y_test.txt
@@ -36,7 +34,6 @@ This is the directory structure you should have after unzipping:
 ./UCI HAR Dataset/test/X_test.txt
 ./UCI HAR Dataset/test/y_test.txt
 ./UCI HAR Dataset/train
-./UCI HAR Dataset/train/.DS_Store
 ./UCI HAR Dataset/train/Inertial Signals
 ./UCI HAR Dataset/train/Inertial Signals/body_acc_x_train.txt
 ./UCI HAR Dataset/train/Inertial Signals/body_acc_y_train.txt
@@ -73,3 +70,12 @@ The dataset grouped\_and\_summarized\_data is created by starting with arranged\
 
 1. Grouping by subject and activity  
 2. Summarizing each group with the R mean function to get the mean of each columns (except those for subject and activity) for each observation of each activity for each subject. Since there were 30 subjects, all of whom performed 6 activities, the resulting dataset has 180 rows  
+
+##Source:
+
+Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Luca Oneto(1) and Xavier Parra(2)   
+1 - Smartlab, DIBRIS - UniversitÃ  degli Studi di Genova, Genoa (16145), Italy.   
+2 - CETpD - Universitat PolitÃ¨cnica de Catalunya. Vilanova i la GeltrÃº (08800), Spain   
+har '@' smartlab.ws 
+www.smartlab.ws
+

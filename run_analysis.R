@@ -158,3 +158,5 @@ grouped_and_summarized_data <- arranged_mean_std_training_test_data %>%
 View(grouped_and_summarized_data)
 
 write.table(grouped_and_summarized_data, file = "GettingAndCleaningDataProject_Step5_Dataset.txt", row.names = FALSE)
+
+grouped_and_summarized_data

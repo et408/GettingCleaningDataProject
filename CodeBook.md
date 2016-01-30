@@ -192,5 +192,5 @@ This dataset has the same columns as the arranged\_mean\_std\_training\_test\_da
 Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Luca Oneto(1) and Xavier Parra(2)   
 1 - Smartlab, DIBRIS - UniversitÃ  degli Studi di Genova, Genoa (16145), Italy.   
 2 - CETpD - Universitat PolitÃ¨cnica de Catalunya. Vilanova i la GeltrÃº (08800), Spain   
-har '@' smartlab.ws 
+har '@' smartlab.ws  
 www.smartlab.ws  

@@ -69,7 +69,7 @@ The dataset arranged\_mean\_std\_training\_test\_data is created by:
 The dataset grouped\_and\_summarized\_data is created by starting with arranged\_mean\_std\_training\_test\_data and doing the following:
 
 1. Grouping by subject and activity  
-2. Summarizing each subject/activity group with the mean of each column (except for the subject and activity columns). Since there were 30 subjects, all of whom performed 6 activities, the resulting dataset has 180 rows  
+2. Summarizing each subject/activity group with the mean of each column (except for the subject and activity columns). Since there were 30 subjects, all of whom performed 6 activities, the resulting dataset has 180 rows.  
 
 ##Source:
 

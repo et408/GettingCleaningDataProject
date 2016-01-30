@@ -64,7 +64,7 @@ The script loads the following files into data tables:
 * subject_test.txt
 
 The dataset arranged\_mean\_std\_training\_test\_data is created by:  
-1. Annotating the data from X_train.txt and X_test.txt using features.txt  
+1. Annotating the data from X\_train.txt and X\_test.txt using features.txt  
 2. Adding subject identifiers to each observation using identifiers from subject_train.txt and subject_test.txt  
 3. Applying an 'activity' factor (created from activity_labels.txt)  
 4. Selecting only columns of mean and standard deviation values  

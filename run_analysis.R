@@ -1,7 +1,7 @@
 library(dplyr)
 library(data.table)
  
-# Note: The "UCI HAR Dataset" directory should be placed in the working directory along with this R script.
+# Note: The "UCI HAR Dataset" directory should be placed in the R working directory along with this R script.
 
 #=========================================================
 # Initilization of variables for names of data directories

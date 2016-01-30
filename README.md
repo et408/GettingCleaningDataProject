@@ -9,7 +9,7 @@ This repository contains the following files:
 | run_analysis.R | The R script used to process (load, annotate, merge, group and summarize) the data from ["Smartphone-Based Recognition of Human Activities and Postural Transitions Data Set"] (http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions) |
 
 ### Explaination of run_analysis.R
-To use this script the original dataset must be downloaded from [HAPT\_Data\_Set.zip] (http://archive.ics.uci.edu/ml/machine-learning-databases/00341/HAPT%20Data%20Set.zip) under "Data Folder" at the site listed above. Unzip the folder, and place run_analysis.R in the directory containing the unzipped directory "UCI HAR Dataset".
+To use this script the original dataset must be downloaded from [HAPT\_Data\_Set.zip] (http://archive.ics.uci.edu/ml/machine-learning-databases/00341/HAPT%20Data%20Set.zip) under "Data Folder" at the site listed above. Unzip the file, and place run_analysis.R in the R working directory along with the unzipped directory "UCI HAR Dataset".
 
 This is the directory structure you should have after unzipping:  
 

@@ -186,3 +186,11 @@ This dataset has the same columns as the arranged\_mean\_std\_training\_test\_da
 | fBodyBodyGyroJerkMag-mean()     | Mean frequency body body triaxial angular velocity | rad/seg |
 | fBodyBodyGyroJerkMag-std()      | Standard deviation frequency body body triaxial angular velocity | rad/seg |
 | fBodyBodyGyroJerkMag-meanFreq() | Mean frequency frequency body body triaxial angular velocity | rad/seg |
+
+##Source:
+
+Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Luca Oneto(1) and Xavier Parra(2)   
+1 - Smartlab, DIBRIS - UniversitÃ  degli Studi di Genova, Genoa (16145), Italy.   
+2 - CETpD - Universitat PolitÃ¨cnica de Catalunya. Vilanova i la GeltrÃº (08800), Spain   
+har '@' smartlab.ws 
+www.smartlab.ws  

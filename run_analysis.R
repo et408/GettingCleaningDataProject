@@ -156,3 +156,5 @@ grouped_and_summarized_data <- arranged_mean_std_training_test_data %>%
     group_by(SubjectIdentifier, Activity) %>% 
     summarize_each(funs(mean), -c(subject_activity_columns))
 View(grouped_and_summarized_data)
+
+write.table(grouped_and_summarized_data, file = "GettingAndCleaningDataProject_Step5_Dataset.txt", row.names = FALSE)
